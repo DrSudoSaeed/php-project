@@ -1,0 +1,36 @@
+login :
+
+mobile / email 
+code / password 
+
+Sign up :
+
+username
+email 
+mobile 
+password
+
+Pubg account list :
+
+img
+price 
+
+Pubg Account Information:
+
+active / noactive
+img / film
+id ads
+time create ads 
+level account
+name account
+rank account
+num uc 
+sesion elite 
+sesion elite max 
+skins unique account
+linked account
+link 3 / 4 ?
+form account
+price
+
+buy account

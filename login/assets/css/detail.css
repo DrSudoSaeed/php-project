@@ -1,0 +1,55 @@
+@font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: normal;
+    src: url('fonts/Vazir.eot');
+    src: url('fonts/Vazir.eot?#iefix') format('embedded-opentype'), 
+    url('fonts/Vazir.woff2') format('woff2'), 
+    url('fonts/Vazir.woff') format('woff'), 
+    url('fonts/Vazir.ttf') format('truetype');
+   }
+   @font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: bold;
+    src: url('fonts/Vazir-Bold.eot');
+    src: url('fonts/Vazir-Bold.eot?#iefix') format('embedded-opentype'), 
+    url('fonts/Vazir-Bold.woff2') format('woff2'), 
+    url('fonts/Vazir-Bold.woff') format('woff'), 
+    url('fonts/Vazir-Bold.ttf') format('truetype');
+   }
+    
+body {
+    font-family: Vazir;
+    text-align: center;
+    margin-left: 600px;
+
+}
+
+#shorten-form {
+    max-width: 400px;
+    margin: auto;
+}
+
+#shorten-input {
+    width: 500px;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+#shorten-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+#shorten-result {
+    margin-top: 20px;
+    font-weight: bold;
+}
+#r{
+    text-align: right;
+}
