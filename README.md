@@ -1,6 +1,5 @@
 # php-project
-پروژه سایت خرید و فروش اکانت پابجی <br>
-توسعه دهنده سعید.<br>
+PUBG account purchase and sale project (similar to a store)<br>
 **The developer of this project is Saeed.**<br>
 **Copying is possible with reference to the source.**<br>
 **Ways of communication with Saeed :**<br>
